@@ -55,7 +55,7 @@ The OpenCode AI Platform is a sophisticated framework for building and orchestra
       "name": "DeepSeek",
       "options": {
         "baseURL": "https://api.deepseek.com/v1",
-        "apiKey": "sk-a72ed4d09c5f4ef5ac717d56d7832b5a"
+        "apiKey": "API_KEY"
       },
       "models": {
         "deepseek-chat": {
